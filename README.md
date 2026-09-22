@@ -3,7 +3,7 @@
 **Student Name:** Abhinav Prasad E P  
 **Register No.:** R25EF004  
 **Course:** Portfolio Building for Engineering Students (B25CS0311)  
-**HackerRank Profile:** [https://www.hackerrank.com/profile/abhinavv7](https://www.hackerrank.com/profile/abhinavv7)  
+**HackerRank Profile:** [https://www.hackerrank.com/profile/abhinavep1030](https://www.hackerrank.com/profile/abhinavep1030)
 
 ---
 
